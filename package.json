@@ -1,9 +1,9 @@
 {
-  "name": "nextjs-template",
-  "description": "Next.js template with lints & test",
+  "name": "runes",
+  "description": "Transform text to runic script with Next.js",
   "version": "0.1.0",
   "private": true,
-  "repository": "https://github.com/stscoundrel/nextjs-template.git",
+  "repository": "https://github.com/stscoundrel/runes.git",
   "author": "stscoundrel <silvennoinen.sampo@gmail.com>",
   "licenses": [
     {
