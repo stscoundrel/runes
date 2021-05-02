@@ -2,10 +2,10 @@ import NextHead from 'next/head'
 
 export default function Head() {
   // Populate per site/page logic.
-  const title = ''
-  const description = ''
-  const canonicalUrl = ''
-  const siteName = ''
+  const title = 'Runes'
+  const description = 'Translate text to runic script'
+  const canonicalUrl = 'https://runes.vercel.app'
+  const siteName = 'Runes'
 
   return (
     <NextHead>
