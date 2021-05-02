@@ -2,19 +2,17 @@ import NextHead from 'next/head'
 
 export default function Head() {
   // Populate per site/page logic.
-  const title = ''
-  const description = ''
-  const canonicalUrl = ''
-  const siteName = ''
+  const title = 'Runes'
+  const description = 'Translate text to runic script'
+  const canonicalUrl = 'https://runes.vercel.app'
+  const siteName = 'Runes'
 
   return (
     <NextHead>
       <link rel='icon' href='/favicon.ico' />
         <title>{title}</title>
-        <link rel='icon' type='image/png' sizes='48x48' href='/favicon-48x48.png' />
-        <link rel='icon' type='image/png' sizes='32x32' href='/favicon-32x32.png' />
-        <link rel='icon' type='image/png' sizes='16x16' href='/favicon-16x16.png' />
-        <link rel="apple-touch-icon" href="/favicon-96x96.png"></link>
+        <link rel='icon' type='image/png' sizes='48x48' href='/icon-72x72.png' />
+        <link rel="apple-touch-icon" href="/icon-96x96.png"></link>
         <meta
           name='description'
           content={description}

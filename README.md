@@ -1,2 +1,5 @@
-# nextjs-template
-Next.js template with lints &amp; test
+# Runes
+
+Transform text to runic script with Next.js
+
+## Work-in-progress
