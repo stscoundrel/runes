@@ -8,14 +8,31 @@ Array [
     <section
       className="section"
     >
+      <header
+        className="header"
+      >
+        <h1>
+          Runes
+        </h1>
+        <p>
+          Translate text to runic script
+        </p>
+      </header>
+      <textarea
+        onChange={[Function]}
+        value=""
+      />
       <p>
-        There is no strength in numbers
+        Younger Futhark
       </p>
       <p>
-        Have no such misconception
+        
       </p>
       <p>
-        But when you need me be assured I wont be far away
+        Elder Futhark
+      </p>
+      <p>
+        
       </p>
     </section>
   </main>,
