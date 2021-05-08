@@ -18,7 +18,13 @@ Array [
           Translate text to runic script
         </p>
       </header>
+      <label
+        htmlFor="transcribe"
+      >
+        Text to transcribe
+      </label>
       <textarea
+        name="transcribe"
         onChange={[Function]}
         value=""
       />

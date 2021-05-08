@@ -21,3 +21,10 @@ textarea {
   height: rem(100px);
   margin-bottom: rem(40px);
 }
+
+label {
+  margin-bottom: rem(15px);
+  font-size: smaller;
+  color: $color-dark;
+  text-align: left;
+}
