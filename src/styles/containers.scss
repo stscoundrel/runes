@@ -1,5 +1,11 @@
 .container {
-  max-width: rem(940px);
-  padding: 0 rem(20px);
+  max-width: 100%;
+  padding: rem(40px) rem(20px);
   margin: 0 auto;
+}
+
+@include media-tablet {
+  .container {
+    max-width: rem(500px);
+  }
 }

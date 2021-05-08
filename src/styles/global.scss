@@ -7,8 +7,9 @@
 
 body,
 html {
+  box-sizing: border-box;
+  -ms-overflow-style: scrollbar;
   max-width: 100%;
-  overflow-x: hidden;
   scroll-behavior: smooth;
 }
 
