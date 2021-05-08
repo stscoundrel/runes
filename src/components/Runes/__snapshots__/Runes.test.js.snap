@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Runes component Matches snapshot 1`] = `
+<section
+  className="section"
+>
+  <header
+    className="header"
+  >
+    <h1>
+      Runes
+    </h1>
+    <p>
+      Translate text to runic script
+    </p>
+  </header>
+  <textarea
+    onChange={[Function]}
+    value=""
+  />
+  <p>
+    Younger Futhark
+  </p>
+  <p>
+    
+  </p>
+  <p>
+    Elder Futhark
+  </p>
+  <p>
+    
+  </p>
+</section>
+`;
