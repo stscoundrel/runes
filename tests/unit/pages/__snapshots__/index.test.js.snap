@@ -24,7 +24,7 @@ Array [
         Text to transcribe
       </label>
       <textarea
-        name="transcribe"
+        id="transcribe"
         onChange={[Function]}
         value=""
       />
