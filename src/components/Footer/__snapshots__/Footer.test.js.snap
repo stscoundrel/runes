@@ -5,12 +5,21 @@ exports[`Footer component Matches snapshot 1`] = `
   className="section"
 >
   <div
-    className="container"
+    className="container text-center"
   >
-    <p>
+    <small
+      className="copyright"
+    >
       Copyright © 
       2021
-    </p>
+      <a
+        href="https://github.com/stscoundrel"
+        rel="noopener noreferrer"
+        target="_blank"
+      >
+        Sampo Silvennoinen / StScoundrel
+      </a>
+    </small>
   </div>
 </footer>
 `;

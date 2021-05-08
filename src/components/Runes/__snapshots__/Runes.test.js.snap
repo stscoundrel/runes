@@ -21,13 +21,17 @@ exports[`Runes component Matches snapshot 1`] = `
   <p>
     Younger Futhark
   </p>
-  <p>
+  <p
+    className="runic"
+  >
     
   </p>
   <p>
     Elder Futhark
   </p>
-  <p>
+  <p
+    className="runic"
+  >
     
   </p>
 </section>
