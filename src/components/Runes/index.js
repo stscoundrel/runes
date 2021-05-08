@@ -17,7 +17,7 @@ export default function Runes() {
       </header>
 
       <label htmlFor="transcribe">Text to transcribe</label>
-      <textarea name="transcribe" value={content} onChange={(e) => setContent(e.target.value)} />
+      <textarea id="transcribe" value={content} onChange={(e) => setContent(e.target.value)} />
 
       <p>Younger Futhark</p>
       <p className={styles.runic}>{youngerFuthark.lettersToRunes(content)}</p>

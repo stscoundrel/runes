@@ -20,7 +20,7 @@ exports[`Runes component Matches snapshot 1`] = `
     Text to transcribe
   </label>
   <textarea
-    name="transcribe"
+    id="transcribe"
     onChange={[Function]}
     value=""
   />
