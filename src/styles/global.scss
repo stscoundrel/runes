@@ -2,11 +2,14 @@
 @import 'variables';
 @import 'media-queries';
 @import 'typography';
+@import 'forms';
+@import 'containers';
 
 body,
 html {
+  box-sizing: border-box;
+  -ms-overflow-style: scrollbar;
   max-width: 100%;
-  overflow-x: hidden;
   scroll-behavior: smooth;
 }
 
@@ -18,4 +21,16 @@ html {
 *::before,
 *::after {
   box-sizing: inherit;
+}
+
+.text-center {
+  text-align: center;
+}
+
+a {
+  color: $color-body;
+
+  &:hover {
+    text-decoration: underline;
+  }
 }

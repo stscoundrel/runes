@@ -14,20 +14,30 @@ exports[`Runes component Matches snapshot 1`] = `
       Translate text to runic script
     </p>
   </header>
+  <label
+    htmlFor="transcribe"
+  >
+    Text to transcribe
+  </label>
   <textarea
+    name="transcribe"
     onChange={[Function]}
     value=""
   />
   <p>
     Younger Futhark
   </p>
-  <p>
+  <p
+    className="runic"
+  >
     
   </p>
   <p>
     Elder Futhark
   </p>
-  <p>
+  <p
+    className="runic"
+  >
     
   </p>
 </section>
