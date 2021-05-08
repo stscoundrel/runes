@@ -19,10 +19,10 @@ export default function Runes() {
       <textarea value={content} onChange={(e) => setContent(e.target.value)} />
 
       <p>Younger Futhark</p>
-      <p>{youngerFuthark.lettersToRunes(content)}</p>
+      <p className={styles.runic}>{youngerFuthark.lettersToRunes(content)}</p>
 
       <p>Elder Futhark</p>
-      <p>{elderFuthark.lettersToRunes(content)}</p>
+      <p className={styles.runic}>{elderFuthark.lettersToRunes(content)}</p>
 
     </section>
   )

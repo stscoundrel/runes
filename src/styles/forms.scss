@@ -1,0 +1,22 @@
+input,
+textarea {
+  @extend .body-text;
+
+  display: block;
+  width: 100%;
+  border-radius: rem(10px);
+  margin-bottom: rem(15px);
+  padding: rem(10px) rem(20px);
+  border: 1px solid $color-body;
+
+  &:focus {
+    outline: none;
+    border: 1px solid $color-dark;
+    background-color: $color-light;
+  }
+}
+
+textarea {
+  height: rem(100px);
+  margin-bottom: rem(40px);
+}

@@ -2,6 +2,8 @@
 @import 'variables';
 @import 'media-queries';
 @import 'typography';
+@import 'forms';
+@import 'containers';
 
 body,
 html {
@@ -18,4 +20,16 @@ html {
 *::before,
 *::after {
   box-sizing: inherit;
+}
+
+.text-center {
+  text-align: center;
+}
+
+a {
+  color: $color-body;
+
+  &:hover {
+    text-decoration: underline;
+  }
 }
