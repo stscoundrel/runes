@@ -1,0 +1,15 @@
+.section {
+  height: rem(100px);
+  display: flex;
+  align-items: center;
+}
+
+.copyright {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+
+  a {
+    margin: 20px;
+  }
+}
