@@ -3,6 +3,7 @@ import { useState } from 'react'
 // Rune adapters.
 import youngerFuthark from 'younger-futhark'
 import elderFuthark from 'elder-futhark'
+import futhorc from 'futhorc'
 
 import styles from './Runes.module.scss'
 
@@ -24,6 +25,9 @@ export default function Runes() {
 
       <p>Elder Futhark</p>
       <p className={styles.runic}>{elderFuthark.lettersToRunes(content)}</p>
+
+      <p>Futhorc</p>
+      <p className={styles.runic}>{futhorc.lettersToRunes(content)}</p>
 
     </section>
   )

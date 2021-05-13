@@ -40,5 +40,13 @@ exports[`Runes component Matches snapshot 1`] = `
   >
     
   </p>
+  <p>
+    Futhorc
+  </p>
+  <p
+    className="runic"
+  >
+    
+  </p>
 </section>
 `;
