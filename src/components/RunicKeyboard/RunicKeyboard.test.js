@@ -5,6 +5,8 @@ import renderer from 'react-test-renderer'
 import youngerFuthark from 'younger-futhark'
 import elderFuthark from 'elder-futhark'
 import futhorc from 'futhorc'
+
+// Components.
 import RunicKeyboard from './index'
 
 describe('RunicKey component', () => {
