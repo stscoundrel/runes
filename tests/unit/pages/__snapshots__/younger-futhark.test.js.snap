@@ -1,0 +1,129 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Younger Futhark runic keyboard page Matches snapshot 1`] = `
+Array [
+  <main
+    className="container"
+  >
+    <section>
+      <header>
+        <h1>
+          Younger Futhark
+        </h1>
+        <p>
+          Translate runes to text
+        </p>
+      </header>
+      <p>
+        
+      </p>
+      <button
+        onClick={[Function]}
+      >
+        ᚠ
+      </button>
+      <button
+        onClick={[Function]}
+      >
+        ᚢ
+      </button>
+      <button
+        onClick={[Function]}
+      >
+        ᚦ
+      </button>
+      <button
+        onClick={[Function]}
+      >
+        ᚬ
+      </button>
+      <button
+        onClick={[Function]}
+      >
+        ᚱ
+      </button>
+      <button
+        onClick={[Function]}
+      >
+        ᚴ
+      </button>
+      <button
+        onClick={[Function]}
+      >
+        ᚼ
+      </button>
+      <button
+        onClick={[Function]}
+      >
+        ᚾ
+      </button>
+      <button
+        onClick={[Function]}
+      >
+        ᛁ
+      </button>
+      <button
+        onClick={[Function]}
+      >
+        ᛅ
+      </button>
+      <button
+        onClick={[Function]}
+      >
+        ᛋ
+      </button>
+      <button
+        onClick={[Function]}
+      >
+        ᛏ
+      </button>
+      <button
+        onClick={[Function]}
+      >
+        ᛒ
+      </button>
+      <button
+        onClick={[Function]}
+      >
+        ᛘ
+      </button>
+      <button
+        onClick={[Function]}
+      >
+        ᛚ
+      </button>
+      <button
+        onClick={[Function]}
+      >
+        ᛦ
+      </button>
+      <button
+        onClick={[Function]}
+      >
+        :
+      </button>
+    </section>
+  </main>,
+  <footer
+    className="section"
+  >
+    <div
+      className="container text-center"
+    >
+      <small
+        className="copyright"
+      >
+        Copyright © 
+        2021
+        <a
+          href="https://github.com/stscoundrel"
+          rel="noopener noreferrer"
+          target="_blank"
+        >
+          Sampo Silvennoinen / StScoundrel
+        </a>
+      </small>
+    </div>
+  </footer>,
+]
+`;
