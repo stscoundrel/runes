@@ -327,6 +327,137 @@ exports[`RunicKey component Matches snapshot: Futhorc 1`] = `
 </section>
 `;
 
+exports[`RunicKey component Matches snapshot: Futhork 1`] = `
+<section>
+  <header>
+    <h1>
+      Futhork
+    </h1>
+    <p>
+      Translate runes to text
+    </p>
+  </header>
+  <p>
+    
+  </p>
+  <button
+    onClick={[Function]}
+  >
+    ᚠ
+  </button>
+  <button
+    onClick={[Function]}
+  >
+    ᚢ
+  </button>
+  <button
+    onClick={[Function]}
+  >
+    ᚦ
+  </button>
+  <button
+    onClick={[Function]}
+  >
+    ᚮ
+  </button>
+  <button
+    onClick={[Function]}
+  >
+    ᚱ
+  </button>
+  <button
+    onClick={[Function]}
+  >
+    ᚴ
+  </button>
+  <button
+    onClick={[Function]}
+  >
+    ᚼ
+  </button>
+  <button
+    onClick={[Function]}
+  >
+    ᚿ
+  </button>
+  <button
+    onClick={[Function]}
+  >
+    ᛁ
+  </button>
+  <button
+    onClick={[Function]}
+  >
+    ᛆ
+  </button>
+  <button
+    onClick={[Function]}
+  >
+    ᛌ
+  </button>
+  <button
+    onClick={[Function]}
+  >
+    ᛋ
+  </button>
+  <button
+    onClick={[Function]}
+  >
+    ᛐ
+  </button>
+  <button
+    onClick={[Function]}
+  >
+    ᛏ
+  </button>
+  <button
+    onClick={[Function]}
+  >
+    ᛒ
+  </button>
+  <button
+    onClick={[Function]}
+  >
+    ᛘ
+  </button>
+  <button
+    onClick={[Function]}
+  >
+    ᛚ
+  </button>
+  <button
+    onClick={[Function]}
+  >
+    ᛦ
+  </button>
+  <button
+    onClick={[Function]}
+  >
+    :
+  </button>
+  <button
+    onClick={[Function]}
+  >
+    ᚯ
+  </button>
+  <button
+    onClick={[Function]}
+  >
+    ᛅ
+  </button>
+  <button
+    onClick={[Function]}
+  >
+    ᚰ
+  </button>
+  <button
+    onClick={[Function]}
+  >
+    ᛕ
+  </button>
+</section>
+`;
+
 exports[`RunicKey component Matches snapshot: Younger Futhark 1`] = `
 <section>
   <header>
