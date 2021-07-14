@@ -48,5 +48,72 @@ exports[`Runes component Matches snapshot 1`] = `
   >
     
   </p>
+  <p>
+    Futhork
+  </p>
+  <p
+    className="runic"
+  >
+    
+  </p>
+</section>
+`;
+
+exports[`Runes component Typing text to input produces transcriptions 1`] = `
+<section
+  className="section"
+>
+  <header
+    className="header"
+  >
+    <h1>
+      Runes
+    </h1>
+    <p>
+      Translate text to runic script
+    </p>
+  </header>
+  <label
+    htmlFor="transcribe"
+  >
+    Text to transcribe
+  </label>
+  <textarea
+    id="transcribe"
+    onChange={[Function]}
+    value="Some text"
+  />
+  <p>
+    Younger Futhark
+  </p>
+  <p
+    className="runic"
+  >
+    ᛋᚢᛘᛁ:ᛏᛁᛋᛏ
+  </p>
+  <p>
+    Elder Futhark
+  </p>
+  <p
+    className="runic"
+  >
+    ᛋᛟᛗᛖ:ᛏᛖᛋᛏ
+  </p>
+  <p>
+    Futhorc
+  </p>
+  <p
+    className="runic"
+  >
+    ᛋᚩᛗᛖ:ᛏᛖᛉᛏ
+  </p>
+  <p>
+    Futhork
+  </p>
+  <p
+    className="runic"
+  >
+    ᛋᚮᛘᛁ:ᛏᛁᛋᛏ
+  </p>
 </section>
 `;
