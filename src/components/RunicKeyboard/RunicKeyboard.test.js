@@ -5,6 +5,7 @@ import renderer from 'react-test-renderer'
 import youngerFuthark from 'younger-futhark'
 import elderFuthark from 'elder-futhark'
 import futhorc from 'futhorc'
+import futhork from 'futhork'
 
 // Components.
 import RunicKeyboard from './index'
@@ -13,6 +14,7 @@ describe('RunicKey component', () => {
   const elderFutharkRuneSet = elderFuthark.getRuneMapping()
   const youngerFutharkRuneSet = youngerFuthark.getRuneMapping()
   const futhorcRuneSet = futhorc.getRuneMapping()
+  const futhorkRuneSet = futhork.getRuneMapping()
 
   test('Does not crash', () => {
     const div = document.createElement('div')
@@ -32,6 +34,11 @@ describe('RunicKey component', () => {
 
   test('Matches snapshot: Futhorc', () => {
     const tree = renderer.create(<RunicKeyboard dialect="Futhorc" runeSet={futhorcRuneSet}/>).toJSON()
+    expect(tree).toMatchSnapshot()
+  })
+
+  test('Matches snapshot: Futhork', () => {
+    const tree = renderer.create(<RunicKeyboard dialect="Futhork" runeSet={futhorkRuneSet}/>).toJSON()
     expect(tree).toMatchSnapshot()
   })
 })

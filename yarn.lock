@@ -4040,6 +4040,11 @@ futhorc@^1.0.0:
   resolved "https://registry.yarnpkg.com/futhorc/-/futhorc-1.0.0.tgz#bd99757d28681f0efc6802b8786ff700b8ac6cfd"
   integrity sha512-VQrvvKh2oByKqC/gldbh0XFCSc1t0n9vYJUyLG1jFoxncTc146bnaXOD5FPHcSFBwLGwMiM+lelIf/BPboUG/g==
 
+futhork@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/futhork/-/futhork-1.1.0.tgz#f1fc86e9343ff84118d7f8d155a43fe4d28bf959"
+  integrity sha512-R7gQF0JCDuwd0NbMgY2WlX2GGQ4hRm/0y34/Nn2WMICePWliysSoFyPiSSqLohL3oPhze5lnoPeNhz1QuTovoA==
+
 gensync@^1.0.0-beta.2:
   version "1.0.0-beta.2"
   resolved "https://registry.yarnpkg.com/gensync/-/gensync-1.0.0-beta.2.tgz#32a6ee76c3d7f52d46b2b1ae5d93fea8580a25e0"
