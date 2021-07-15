@@ -509,7 +509,17 @@ exports[`RunicKey component Matches snapshot: Younger Futhark 1`] = `
   <button
     onClick={[Function]}
   >
+    ᚽ
+  </button>
+  <button
+    onClick={[Function]}
+  >
     ᚾ
+  </button>
+  <button
+    onClick={[Function]}
+  >
+    ᚿ
   </button>
   <button
     onClick={[Function]}
@@ -524,12 +534,27 @@ exports[`RunicKey component Matches snapshot: Younger Futhark 1`] = `
   <button
     onClick={[Function]}
   >
+    ᛆ
+  </button>
+  <button
+    onClick={[Function]}
+  >
     ᛋ
   </button>
   <button
     onClick={[Function]}
   >
+    ᛌ
+  </button>
+  <button
+    onClick={[Function]}
+  >
     ᛏ
+  </button>
+  <button
+    onClick={[Function]}
+  >
+    ᛐ
   </button>
   <button
     onClick={[Function]}
