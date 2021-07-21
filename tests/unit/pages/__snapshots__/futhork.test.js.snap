@@ -115,6 +115,16 @@ Array [
       <button
         onClick={[Function]}
       >
+        ᚵ
+      </button>
+      <button
+        onClick={[Function]}
+      >
+        ᚽ
+      </button>
+      <button
+        onClick={[Function]}
+      >
         ᚯ
       </button>
       <button

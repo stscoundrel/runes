@@ -113,7 +113,7 @@ exports[`Runes component Typing text to input produces transcriptions 1`] = `
   <p
     className="runic"
   >
-    ᛋᚮᛘᛁ:ᛏᛁᛋᛏ
+    ᛋᚮᛘᚽ:ᛏᚽᛋᛏ
   </p>
 </section>
 `;
