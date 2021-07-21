@@ -3694,10 +3694,10 @@ futhorc@^1.0.1:
   resolved "https://registry.yarnpkg.com/futhorc/-/futhorc-1.0.1.tgz#683e59aa85a97ff12ae194ec7533c53913df0980"
   integrity sha512-+m7OdROMpzZRYfe4qqDwlE1yrTM30YMRv8G1FRA93PdJT3QPf7j7YtCH1I3Lon2ojWvQJ/uwp3seeND4Dy8rfQ==
 
-futhork@^1.1.0:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/futhork/-/futhork-1.1.0.tgz#f1fc86e9343ff84118d7f8d155a43fe4d28bf959"
-  integrity sha512-R7gQF0JCDuwd0NbMgY2WlX2GGQ4hRm/0y34/Nn2WMICePWliysSoFyPiSSqLohL3oPhze5lnoPeNhz1QuTovoA==
+futhork@^1.1.1:
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/futhork/-/futhork-1.1.1.tgz#684c49eca1644e958a052394ab16ccb6efa2fd4e"
+  integrity sha512-iF3rALlGGECr5PGZox43lLIyaliPgquZGxxIrYPDjV7HWIU/H2r3xHhBALf/cGFqtxczM0vA64dd6ui9QlLvSQ==
 
 gensync@^1.0.0-beta.2:
   version "1.0.0-beta.2"
