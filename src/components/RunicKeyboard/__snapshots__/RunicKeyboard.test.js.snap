@@ -602,7 +602,7 @@ exports[`RunicKey component Matches snapshot: Futhork 1`] = `
       ᛦ
     </button>
     <button
-      aria-label="Runic key :, meaning letter "
+      aria-label="Runic key :, meaning letter  "
       className="key"
       onClick={[Function]}
     >
