@@ -14,164 +14,232 @@ Array [
           Translate runes to text
         </p>
       </header>
-      <p>
+      <p
+        className="result"
+      >
         
       </p>
-      <button
-        onClick={[Function]}
+      <div
+        className="keyboard"
       >
-        ᚠ
-      </button>
-      <button
-        onClick={[Function]}
-      >
-        ᚢ
-      </button>
-      <button
-        onClick={[Function]}
-      >
-        ᚦ
-      </button>
-      <button
-        onClick={[Function]}
-      >
-        ᚩ
-      </button>
-      <button
-        onClick={[Function]}
-      >
-        ᚱ
-      </button>
-      <button
-        onClick={[Function]}
-      >
-        ᚳ
-      </button>
-      <button
-        onClick={[Function]}
-      >
-        ᚷ
-      </button>
-      <button
-        onClick={[Function]}
-      >
-        ᚹ
-      </button>
-      <button
-        onClick={[Function]}
-      >
-        ᚻ
-      </button>
-      <button
-        onClick={[Function]}
-      >
-        ᚾ
-      </button>
-      <button
-        onClick={[Function]}
-      >
-        ᛁ
-      </button>
-      <button
-        onClick={[Function]}
-      >
-        ᛡ
-      </button>
-      <button
-        onClick={[Function]}
-      >
-        ᛄ
-      </button>
-      <button
-        onClick={[Function]}
-      >
-        ᛇ
-      </button>
-      <button
-        onClick={[Function]}
-      >
-        ᛈ
-      </button>
-      <button
-        onClick={[Function]}
-      >
-        ᛉ
-      </button>
-      <button
-        onClick={[Function]}
-      >
-        ᛋ
-      </button>
-      <button
-        onClick={[Function]}
-      >
-        ᚴ
-      </button>
-      <button
-        onClick={[Function]}
-      >
-        ᛏ
-      </button>
-      <button
-        onClick={[Function]}
-      >
-        ᛒ
-      </button>
-      <button
-        onClick={[Function]}
-      >
-        ᛖ
-      </button>
-      <button
-        onClick={[Function]}
-      >
-        ᛗ
-      </button>
-      <button
-        onClick={[Function]}
-      >
-        ᛚ
-      </button>
-      <button
-        onClick={[Function]}
-      >
-        ᛝ
-      </button>
-      <button
-        onClick={[Function]}
-      >
-        ᛟ
-      </button>
-      <button
-        onClick={[Function]}
-      >
-        ᛞ
-      </button>
-      <button
-        onClick={[Function]}
-      >
-        ᚪ
-      </button>
-      <button
-        onClick={[Function]}
-      >
-        ᚫ
-      </button>
-      <button
-        onClick={[Function]}
-      >
-        ᚣ
-      </button>
-      <button
-        onClick={[Function]}
-      >
-        ᛠ
-      </button>
-      <button
-        onClick={[Function]}
-      >
-        :
-      </button>
+        <button
+          aria-label="Runic key ᚠ, meaning letter f"
+          className="key"
+          onClick={[Function]}
+        >
+          ᚠ
+        </button>
+        <button
+          aria-label="Runic key ᚢ, meaning letter u"
+          className="key"
+          onClick={[Function]}
+        >
+          ᚢ
+        </button>
+        <button
+          aria-label="Runic key ᚦ, meaning letter þ"
+          className="key"
+          onClick={[Function]}
+        >
+          ᚦ
+        </button>
+        <button
+          aria-label="Runic key ᚩ, meaning letter o"
+          className="key"
+          onClick={[Function]}
+        >
+          ᚩ
+        </button>
+        <button
+          aria-label="Runic key ᚱ, meaning letter r"
+          className="key"
+          onClick={[Function]}
+        >
+          ᚱ
+        </button>
+        <button
+          aria-label="Runic key ᚳ, meaning letter c"
+          className="key"
+          onClick={[Function]}
+        >
+          ᚳ
+        </button>
+        <button
+          aria-label="Runic key ᚷ, meaning letter g"
+          className="key"
+          onClick={[Function]}
+        >
+          ᚷ
+        </button>
+        <button
+          aria-label="Runic key ᚹ, meaning letter w"
+          className="key"
+          onClick={[Function]}
+        >
+          ᚹ
+        </button>
+        <button
+          aria-label="Runic key ᚻ, meaning letter h"
+          className="key"
+          onClick={[Function]}
+        >
+          ᚻ
+        </button>
+        <button
+          aria-label="Runic key ᚾ, meaning letter n"
+          className="key"
+          onClick={[Function]}
+        >
+          ᚾ
+        </button>
+        <button
+          aria-label="Runic key ᛁ, meaning letter i"
+          className="key"
+          onClick={[Function]}
+        >
+          ᛁ
+        </button>
+        <button
+          aria-label="Runic key ᛡ, meaning letter j"
+          className="key"
+          onClick={[Function]}
+        >
+          ᛡ
+        </button>
+        <button
+          aria-label="Runic key ᛄ, meaning letter j"
+          className="key"
+          onClick={[Function]}
+        >
+          ᛄ
+        </button>
+        <button
+          aria-label="Runic key ᛇ, meaning letter ï"
+          className="key"
+          onClick={[Function]}
+        >
+          ᛇ
+        </button>
+        <button
+          aria-label="Runic key ᛈ, meaning letter p"
+          className="key"
+          onClick={[Function]}
+        >
+          ᛈ
+        </button>
+        <button
+          aria-label="Runic key ᛉ, meaning letter x"
+          className="key"
+          onClick={[Function]}
+        >
+          ᛉ
+        </button>
+        <button
+          aria-label="Runic key ᛋ, meaning letter s"
+          className="key"
+          onClick={[Function]}
+        >
+          ᛋ
+        </button>
+        <button
+          aria-label="Runic key ᚴ, meaning letter s"
+          className="key"
+          onClick={[Function]}
+        >
+          ᚴ
+        </button>
+        <button
+          aria-label="Runic key ᛏ, meaning letter t"
+          className="key"
+          onClick={[Function]}
+        >
+          ᛏ
+        </button>
+        <button
+          aria-label="Runic key ᛒ, meaning letter b"
+          className="key"
+          onClick={[Function]}
+        >
+          ᛒ
+        </button>
+        <button
+          aria-label="Runic key ᛖ, meaning letter e"
+          className="key"
+          onClick={[Function]}
+        >
+          ᛖ
+        </button>
+        <button
+          aria-label="Runic key ᛗ, meaning letter m"
+          className="key"
+          onClick={[Function]}
+        >
+          ᛗ
+        </button>
+        <button
+          aria-label="Runic key ᛚ, meaning letter l"
+          className="key"
+          onClick={[Function]}
+        >
+          ᛚ
+        </button>
+        <button
+          aria-label="Runic key ᛝ, meaning letter ŋ"
+          className="key"
+          onClick={[Function]}
+        >
+          ᛝ
+        </button>
+        <button
+          aria-label="Runic key ᛟ, meaning letter œ"
+          className="key"
+          onClick={[Function]}
+        >
+          ᛟ
+        </button>
+        <button
+          aria-label="Runic key ᛞ, meaning letter d"
+          className="key"
+          onClick={[Function]}
+        >
+          ᛞ
+        </button>
+        <button
+          aria-label="Runic key ᚪ, meaning letter a"
+          className="key"
+          onClick={[Function]}
+        >
+          ᚪ
+        </button>
+        <button
+          aria-label="Runic key ᚫ, meaning letter æ"
+          className="key"
+          onClick={[Function]}
+        >
+          ᚫ
+        </button>
+        <button
+          aria-label="Runic key ᚣ, meaning letter y"
+          className="key"
+          onClick={[Function]}
+        >
+          ᚣ
+        </button>
+        <button
+          aria-label="Runic key ᛠ, meaning letter ea"
+          className="key"
+          onClick={[Function]}
+        >
+          ᛠ
+        </button>
+        <button
+          aria-label="Runic key :, meaning letter  "
+          className="key"
+          onClick={[Function]}
+        >
+          :
+        </button>
+      </div>
     </section>
   </main>,
   <footer

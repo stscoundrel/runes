@@ -1,0 +1,11 @@
+.keyboard {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.result {
+  display: block;
+  min-height: rem(40px);
+  font-style: italic;
+}
