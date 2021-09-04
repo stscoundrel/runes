@@ -1,0 +1,22 @@
+.key {
+  display: inline-block;
+  width: rem(40px);
+  height: rem(40px);
+  text-align: center;
+  font-size: rem(26px);
+  line-height: rem(40px);
+  letter-spacing: rem(1.5px);
+  border: rem(1px) solid $color-dark;
+  border-radius: rem(3px);
+  color: $color-dark;
+  background-color: transparent;
+  appearance: none;
+  cursor: pointer;
+
+  &:hover,
+  &:active,
+  &:focus {
+    background-color: $color-dark;
+    color: white;
+  }
+}
