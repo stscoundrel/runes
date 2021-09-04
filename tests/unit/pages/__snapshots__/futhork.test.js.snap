@@ -149,7 +149,7 @@ Array [
           ᛦ
         </button>
         <button
-          aria-label="Runic key :, meaning letter "
+          aria-label="Runic key :, meaning letter  "
           className="key"
           onClick={[Function]}
         >
