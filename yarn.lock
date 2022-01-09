@@ -7798,7 +7798,7 @@ yocto-queue@^0.1.0:
   resolved "https://registry.yarnpkg.com/yocto-queue/-/yocto-queue-0.1.0.tgz#0294eb3dee05028d31ee1a5fa2c556a6aaf10a1b"
   integrity sha512-rVksvsnNCdJ/ohGc6xgPwyN8eheCxsiLM8mxuE/t/mOVqJewPuO1miLpTHQiRgTKCLexL4MeAFVagts7HmNZ2Q==
 
-younger-futhark@^1.1.0:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/younger-futhark/-/younger-futhark-1.1.0.tgz#6ff1de6af4f85e9048a0b70dc4711cfc40005901"
-  integrity sha512-kCkePuxsOK70Z0J8EWwSBdu4crgDAv0mQUoIhDiiD/8ZXr7/K8qolIDP0AbtJRw5W0QeC9udGytVc1XWYTmDWw==
+younger-futhark@^1.1.1:
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/younger-futhark/-/younger-futhark-1.1.1.tgz#1a00d5e0fa37559e73b18a7fc724a8955c24a164"
+  integrity sha512-mRZxCZOEwcaVAlvAlX9nxDLE8XO2tQsFyNgGloylQQL/UcoPM5rv1ZEixA+skhzu4jpE84tVjMcWWj3H40TbDA==
