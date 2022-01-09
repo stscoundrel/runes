@@ -25,7 +25,7 @@
     "test:coverage": "jest --coverage tests src/components --coverageThreshold='{\"global\":{\"statements\":\"90\", \"functions\":\"90\", \"branches\":\"90\", \"lines\":\"90\"}}'"
   },
   "dependencies": {
-    "elder-futhark": "^1.0.2",
+    "elder-futhark": "^1.0.3",
     "futhorc": "^1.0.1",
     "futhork": "^1.1.2",
     "next": "^12.0.7",
@@ -34,18 +34,18 @@
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "reset-css": "^5.0.1",
-    "sass": "^1.45.2",
-    "younger-futhark": "^1.1.0"
+    "sass": "^1.47.0",
+    "younger-futhark": "^1.1.1"
   },
   "devDependencies": {
     "@babel/core": "^7.16.7",
     "@babel/eslint-parser": "^7.16.5",
     "@stryker-mutator/core": "^5.2.3",
     "@stryker-mutator/jest-runner": "^5.2.3",
-    "babel-jest": "^27.4.5",
+    "babel-jest": "^27.4.6",
     "cypress": "^9.2.0",
     "eslint": "^7.32.0",
-    "eslint-config-airbnb": "^18.2.1",
+    "eslint-config-airbnb": "^19.0.4",
     "eslint-config-next": "^12.0.7",
     "eslint-plugin-cypress": "^2.12.1",
     "eslint-plugin-import": "^2.25.3",
@@ -54,7 +54,7 @@
     "eslint-plugin-react": "^7.26.1",
     "eslint-plugin-react-hooks": "^4.3.0",
     "identity-obj-proxy": "^3.0.0",
-    "jest": "^27.4.5",
+    "jest": "^27.4.7",
     "react-test-renderer": "^17.0.2"
   }
 }
