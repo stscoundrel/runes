@@ -4792,13 +4792,6 @@ makeerror@1.0.x:
   dependencies:
     tmpl "1.0.x"
 
-matcher@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/matcher/-/matcher-4.0.0.tgz#a42a05a09aaed92e2d241eb91fddac689461ea51"
-  integrity sha512-S6x5wmcDmsDRRU/c2dkccDwQPXoFczc5+HpQ2lON8pnvHlnvHAHj5WlLVvw6n6vNyHuVugYrFohYxbS+pvFpKQ==
-  dependencies:
-    escape-string-regexp "^4.0.0"
-
 merge-stream@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/merge-stream/-/merge-stream-2.0.0.tgz#52823629a14dd00c9770fb6ad47dc6310f2c1f60"
@@ -4910,13 +4903,12 @@ next-pwa@^5.4.4:
     workbox-webpack-plugin "^6.4.2"
     workbox-window "^6.4.2"
 
-next-sitemap@^1.6.261:
-  version "1.6.261"
-  resolved "https://registry.yarnpkg.com/next-sitemap/-/next-sitemap-1.6.261.tgz#550aeb40b6b1273628237ff7efcfacf9d0244f26"
-  integrity sha512-4RGogAJE2IsMffeH1Lfa6eT85BI1TWO8Fn1hmwX1h40UnvIaJKephlLnp+3F4C4jXKDAZ6P+xHLtVPmyQznVPQ==
+next-sitemap@^2.1.13:
+  version "2.1.13"
+  resolved "https://registry.yarnpkg.com/next-sitemap/-/next-sitemap-2.1.13.tgz#1772e9f0eae07d4b1c3194654b84e6579c05a95c"
+  integrity sha512-gybyH7ylRiwgRakI81++Hx6a+LUl7tkcmcsjNJA0L0t95lk3gc0OYHH9siV+JMdytd4lag5ue8E8iMGKJ06Q/Q==
   dependencies:
     "@corex/deepmerge" "^2.6.148"
-    matcher "^4.0.0"
     minimist "^1.2.5"
 
 next@^12.0.9:
