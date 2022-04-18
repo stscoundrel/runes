@@ -33,33 +33,25 @@ Array [
       </p>
       <p
         className="runic"
-      >
-        
-      </p>
+      />
       <p>
         Elder Futhark
       </p>
       <p
         className="runic"
-      >
-        
-      </p>
+      />
       <p>
         Futhorc
       </p>
       <p
         className="runic"
-      >
-        
-      </p>
+      />
       <p>
         Futhork
       </p>
       <p
         className="runic"
-      >
-        
-      </p>
+      />
     </section>
   </main>,
   <footer
