@@ -16,9 +16,7 @@ Array [
       </header>
       <p
         className="result"
-      >
-        
-      </p>
+      />
       <div
         className="keyboard"
       >

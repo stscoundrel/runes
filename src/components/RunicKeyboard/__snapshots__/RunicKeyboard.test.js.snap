@@ -12,9 +12,7 @@ exports[`RunicKey component Matches snapshot: Elder Futhark 1`] = `
   </header>
   <p
     className="result"
-  >
-    
-  </p>
+  />
   <div
     className="keyboard"
   >
@@ -230,9 +228,7 @@ exports[`RunicKey component Matches snapshot: Futhorc 1`] = `
   </header>
   <p
     className="result"
-  >
-    
-  </p>
+  />
   <div
     className="keyboard"
   >
@@ -469,9 +465,7 @@ exports[`RunicKey component Matches snapshot: Futhork 1`] = `
   </header>
   <p
     className="result"
-  >
-    
-  </p>
+  />
   <div
     className="keyboard"
   >
@@ -666,9 +660,7 @@ exports[`RunicKey component Matches snapshot: Younger Futhark 1`] = `
   </header>
   <p
     className="result"
-  >
-    
-  </p>
+  />
   <div
     className="keyboard"
   >
