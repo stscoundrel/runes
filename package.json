@@ -50,6 +50,6 @@
     "eslint-plugin-react-hooks": "^4.5.0",
     "identity-obj-proxy": "^3.0.0",
     "jest": "^28.0.3",
-    "react-test-renderer": "^18.0.0"
+    "react-test-renderer": "^18.1.0"
   }
 }
