@@ -6042,7 +6042,7 @@ yauzl@^2.10.0:
     buffer-crc32 "~0.2.3"
     fd-slicer "~1.1.0"
 
-younger-futhark@^1.1.2:
-  version "1.1.2"
-  resolved "https://registry.yarnpkg.com/younger-futhark/-/younger-futhark-1.1.2.tgz#f46d8b638cd8f6cf323e008ce44146586760e403"
-  integrity sha512-xvw3wilZ1It6hDkRXbBWfcECObGDzryx+7bmBRWrujMazKH9BrYGVTBYStfcnU4PceLkf2dpWScYGX30j9kJdA==
+younger-futhark@^1.1.3:
+  version "1.1.3"
+  resolved "https://registry.yarnpkg.com/younger-futhark/-/younger-futhark-1.1.3.tgz#b032ae7cd7e51a6196a7292ddd2a2483235a48dc"
+  integrity sha512-j6ejOHdGUJU+dAwNGhzJHQLzNh3yoWYQkMfoYKxhV34aj312OPrP3SdzHTX+8/v+/HtNurSqBmObwuDo128eeg==
