@@ -5,6 +5,7 @@ exports[`RunicKey component Matches snapshot 1`] = `
   aria-label="Runic key ᚠ, meaning letter f"
   className="key"
   onClick={[Function]}
+  title="Runic key ᚠ, meaning letter f"
 >
   ᚠ
 </button>

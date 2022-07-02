@@ -24,6 +24,7 @@ Array [
           aria-label="Runic key ᚠ, meaning letter f"
           className="key"
           onClick={[Function]}
+          title="Runic key ᚠ, meaning letter f"
         >
           ᚠ
         </button>
@@ -31,6 +32,7 @@ Array [
           aria-label="Runic key ᚢ, meaning letter u"
           className="key"
           onClick={[Function]}
+          title="Runic key ᚢ, meaning letter u"
         >
           ᚢ
         </button>
@@ -38,6 +40,7 @@ Array [
           aria-label="Runic key ᚦ, meaning letter þ"
           className="key"
           onClick={[Function]}
+          title="Runic key ᚦ, meaning letter þ"
         >
           ᚦ
         </button>
@@ -45,6 +48,7 @@ Array [
           aria-label="Runic key ᚨ, meaning letter a"
           className="key"
           onClick={[Function]}
+          title="Runic key ᚨ, meaning letter a"
         >
           ᚨ
         </button>
@@ -52,6 +56,7 @@ Array [
           aria-label="Runic key ᚱ, meaning letter r"
           className="key"
           onClick={[Function]}
+          title="Runic key ᚱ, meaning letter r"
         >
           ᚱ
         </button>
@@ -59,6 +64,7 @@ Array [
           aria-label="Runic key ᚲ, meaning letter k"
           className="key"
           onClick={[Function]}
+          title="Runic key ᚲ, meaning letter k"
         >
           ᚲ
         </button>
@@ -66,6 +72,7 @@ Array [
           aria-label="Runic key ᚷ, meaning letter g"
           className="key"
           onClick={[Function]}
+          title="Runic key ᚷ, meaning letter g"
         >
           ᚷ
         </button>
@@ -73,6 +80,7 @@ Array [
           aria-label="Runic key ᚹ, meaning letter w"
           className="key"
           onClick={[Function]}
+          title="Runic key ᚹ, meaning letter w"
         >
           ᚹ
         </button>
@@ -80,6 +88,7 @@ Array [
           aria-label="Runic key ᚺ, meaning letter h"
           className="key"
           onClick={[Function]}
+          title="Runic key ᚺ, meaning letter h"
         >
           ᚺ
         </button>
@@ -87,6 +96,7 @@ Array [
           aria-label="Runic key ᚻ, meaning letter h"
           className="key"
           onClick={[Function]}
+          title="Runic key ᚻ, meaning letter h"
         >
           ᚻ
         </button>
@@ -94,6 +104,7 @@ Array [
           aria-label="Runic key ᚾ, meaning letter n"
           className="key"
           onClick={[Function]}
+          title="Runic key ᚾ, meaning letter n"
         >
           ᚾ
         </button>
@@ -101,6 +112,7 @@ Array [
           aria-label="Runic key ᛁ, meaning letter i"
           className="key"
           onClick={[Function]}
+          title="Runic key ᛁ, meaning letter i"
         >
           ᛁ
         </button>
@@ -108,6 +120,7 @@ Array [
           aria-label="Runic key ᛃ, meaning letter j"
           className="key"
           onClick={[Function]}
+          title="Runic key ᛃ, meaning letter j"
         >
           ᛃ
         </button>
@@ -115,6 +128,7 @@ Array [
           aria-label="Runic key ᛇ, meaning letter ï"
           className="key"
           onClick={[Function]}
+          title="Runic key ᛇ, meaning letter ï"
         >
           ᛇ
         </button>
@@ -122,6 +136,7 @@ Array [
           aria-label="Runic key ᛈ, meaning letter p"
           className="key"
           onClick={[Function]}
+          title="Runic key ᛈ, meaning letter p"
         >
           ᛈ
         </button>
@@ -129,6 +144,7 @@ Array [
           aria-label="Runic key ᛉ, meaning letter z"
           className="key"
           onClick={[Function]}
+          title="Runic key ᛉ, meaning letter z"
         >
           ᛉ
         </button>
@@ -136,6 +152,7 @@ Array [
           aria-label="Runic key ᛊ, meaning letter s"
           className="key"
           onClick={[Function]}
+          title="Runic key ᛊ, meaning letter s"
         >
           ᛊ
         </button>
@@ -143,6 +160,7 @@ Array [
           aria-label="Runic key ᛋ, meaning letter s"
           className="key"
           onClick={[Function]}
+          title="Runic key ᛋ, meaning letter s"
         >
           ᛋ
         </button>
@@ -150,6 +168,7 @@ Array [
           aria-label="Runic key ᛏ, meaning letter t"
           className="key"
           onClick={[Function]}
+          title="Runic key ᛏ, meaning letter t"
         >
           ᛏ
         </button>
@@ -157,6 +176,7 @@ Array [
           aria-label="Runic key ᛒ, meaning letter b"
           className="key"
           onClick={[Function]}
+          title="Runic key ᛒ, meaning letter b"
         >
           ᛒ
         </button>
@@ -164,6 +184,7 @@ Array [
           aria-label="Runic key ᛖ, meaning letter e"
           className="key"
           onClick={[Function]}
+          title="Runic key ᛖ, meaning letter e"
         >
           ᛖ
         </button>
@@ -171,6 +192,7 @@ Array [
           aria-label="Runic key ᛗ, meaning letter m"
           className="key"
           onClick={[Function]}
+          title="Runic key ᛗ, meaning letter m"
         >
           ᛗ
         </button>
@@ -178,6 +200,7 @@ Array [
           aria-label="Runic key ᛚ, meaning letter l"
           className="key"
           onClick={[Function]}
+          title="Runic key ᛚ, meaning letter l"
         >
           ᛚ
         </button>
@@ -185,6 +208,7 @@ Array [
           aria-label="Runic key ᛜ, meaning letter ŋ"
           className="key"
           onClick={[Function]}
+          title="Runic key ᛜ, meaning letter ŋ"
         >
           ᛜ
         </button>
@@ -192,6 +216,7 @@ Array [
           aria-label="Runic key ᛝ, meaning letter ŋ"
           className="key"
           onClick={[Function]}
+          title="Runic key ᛝ, meaning letter ŋ"
         >
           ᛝ
         </button>
@@ -199,6 +224,7 @@ Array [
           aria-label="Runic key ᛟ, meaning letter o"
           className="key"
           onClick={[Function]}
+          title="Runic key ᛟ, meaning letter o"
         >
           ᛟ
         </button>
@@ -206,6 +232,7 @@ Array [
           aria-label="Runic key ᛞ, meaning letter d"
           className="key"
           onClick={[Function]}
+          title="Runic key ᛞ, meaning letter d"
         >
           ᛞ
         </button>
@@ -213,6 +240,7 @@ Array [
           aria-label="Runic key :, meaning letter  "
           className="key"
           onClick={[Function]}
+          title="Runic key :, meaning letter  "
         >
           :
         </button>

@@ -13,6 +13,7 @@ interface RunicKeyProps {
 export default function RunicKey({ rune, letter, callback }: RunicKeyProps) {
   return (
     <button
+      title={`Runic key ${rune}, meaning letter ${letter}`}
       className={styles.key}
       aria-label={`Runic key ${rune}, meaning letter ${letter}`}
       onClick={() => callback(letter)}
