@@ -3,3 +3,5 @@ describe('Runic keyboard: Futhork', () => {
     cy.visit('/futhork')
   })
 })
+
+export {}
