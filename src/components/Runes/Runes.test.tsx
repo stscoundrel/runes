@@ -45,7 +45,8 @@ describe('Runes component', () => {
     /**
      * Assert transcriptions were provided
      */
-    expect(JSON.stringify(tree)).toContain('ᛋᚢᛘᛁ:ᛏᛁᛋᛏ') // Younger futhark
+    expect(JSON.stringify(tree)).toContain('ᛋᚢᛘᛁ:ᛏᛁᛋᛏ') // Younger futhark long branch
+    expect(JSON.stringify(tree)).toContain('ᛌᚢᛘᛁ:ᛐᛁᛌᛐ') // Younger futhark short twig
     expect(JSON.stringify(tree)).toContain('ᛋᛟᛗᛖ:ᛏᛖᛋᛏ') // Elder futhark
     expect(JSON.stringify(tree)).toContain('ᛋᚩᛗᛖ:ᛏᛖᛉᛏ') // Futhorc
     expect(JSON.stringify(tree)).toContain('ᛋᚮᛘᚽ:ᛏᚽᛋᛏ') // Futhork

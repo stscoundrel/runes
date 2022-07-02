@@ -27,6 +27,15 @@ exports[`Runes component Matches snapshot 1`] = `
   <p>
     Younger Futhark
   </p>
+  <small>
+    Long branch
+  </small>
+  <p
+    className="runic"
+  />
+  <small>
+    Short twig
+  </small>
   <p
     className="runic"
   />
@@ -84,10 +93,21 @@ exports[`Runes component Typing text to input produces transcriptions 1`] = `
   <p>
     Younger Futhark
   </p>
+  <small>
+    Long branch
+  </small>
   <p
     className="runic"
   >
     ᛋᚢᛘᛁ:ᛏᛁᛋᛏ
+  </p>
+  <small>
+    Short twig
+  </small>
+  <p
+    className="runic"
+  >
+    ᛌᚢᛘᛁ:ᛐᛁᛌᛐ
   </p>
   <p>
     Elder Futhark
