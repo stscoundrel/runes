@@ -2,10 +2,15 @@ import { useState } from 'react'
 import RunicKey from 'components/RunicKeyboard/RunicKey'
 import styles from './RunicKeyboard.module.scss'
 
-export default function RunicKeyboard({ dialect, runeSet }) {
+interface RunicKeyboardProps {
+  dialect: string
+  runeSet: Map<string, string>
+}
+
+export default function RunicKeyboard({ dialect, runeSet }: RunicKeyboardProps) {
   const [text, setText] = useState('')
 
-  const appendLetter = (letter) => {
+  const appendLetter = (letter: string): void => {
     setText(`${text}${letter}`)
   }
 
