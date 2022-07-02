@@ -52,6 +52,12 @@ Array [
       <p
         className="runic"
       />
+      <p>
+        Staveless Futhark
+      </p>
+      <p
+        className="runic"
+      />
     </section>
   </main>,
   <footer

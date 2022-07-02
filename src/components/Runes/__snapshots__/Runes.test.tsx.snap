@@ -48,6 +48,12 @@ exports[`Runes component Matches snapshot 1`] = `
   <p
     className="runic"
   />
+  <p>
+    Staveless Futhark
+  </p>
+  <p
+    className="runic"
+  />
 </section>
 `;
 
@@ -106,6 +112,14 @@ exports[`Runes component Typing text to input produces transcriptions 1`] = `
     className="runic"
   >
     ᛋᚮᛘᚽ:ᛏᚽᛋᛏ
+  </p>
+  <p>
+    Staveless Futhark
+  </p>
+  <p
+    className="runic"
+  >
+    ╵ˎ⠃ᛁ:⸍ᛁ╵⸍
   </p>
 </section>
 `;
