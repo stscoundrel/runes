@@ -1,0 +1,167 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Staveless Futhark runic keyboard page Matches snapshot 1`] = `
+Array [
+  <main
+    className="container"
+  >
+    <section>
+      <header>
+        <h1>
+          Younger Futhark
+        </h1>
+        <p>
+          Translate runes to text
+        </p>
+      </header>
+      <p
+        className="result"
+      />
+      <div
+        className="keyboard"
+      >
+        <button
+          aria-label="Runic key ᛙ, meaning letter f"
+          className="key"
+          onClick={[Function]}
+        >
+          ᛙ
+        </button>
+        <button
+          aria-label="Runic key ╮, meaning letter u"
+          className="key"
+          onClick={[Function]}
+        >
+          ╮
+        </button>
+        <button
+          aria-label="Runic key ו, meaning letter þ"
+          className="key"
+          onClick={[Function]}
+        >
+          ו
+        </button>
+        <button
+          aria-label="Runic key ˎ, meaning letter o"
+          className="key"
+          onClick={[Function]}
+        >
+          ˎ
+        </button>
+        <button
+          aria-label="Runic key ◟, meaning letter r"
+          className="key"
+          onClick={[Function]}
+        >
+          ◟
+        </button>
+        <button
+          aria-label="Runic key ᛍ, meaning letter k"
+          className="key"
+          onClick={[Function]}
+        >
+          ᛍ
+        </button>
+        <button
+          aria-label="Runic key ᚽ, meaning letter h"
+          className="key"
+          onClick={[Function]}
+        >
+          ᚽ
+        </button>
+        <button
+          aria-label="Runic key ⸜, meaning letter n"
+          className="key"
+          onClick={[Function]}
+        >
+          ⸜
+        </button>
+        <button
+          aria-label="Runic key ᛁ, meaning letter i"
+          className="key"
+          onClick={[Function]}
+        >
+          ᛁ
+        </button>
+        <button
+          aria-label="Runic key ⸝, meaning letter a"
+          className="key"
+          onClick={[Function]}
+        >
+          ⸝
+        </button>
+        <button
+          aria-label="Runic key ╵, meaning letter s"
+          className="key"
+          onClick={[Function]}
+        >
+          ╵
+        </button>
+        <button
+          aria-label="Runic key ⸍, meaning letter t"
+          className="key"
+          onClick={[Function]}
+        >
+          ⸍
+        </button>
+        <button
+          aria-label="Runic key ˏ, meaning letter b"
+          className="key"
+          onClick={[Function]}
+        >
+          ˏ
+        </button>
+        <button
+          aria-label="Runic key ⠃, meaning letter m"
+          className="key"
+          onClick={[Function]}
+        >
+          ⠃
+        </button>
+        <button
+          aria-label="Runic key ⸌, meaning letter l"
+          className="key"
+          onClick={[Function]}
+        >
+          ⸌
+        </button>
+        <button
+          aria-label="Runic key ⡄, meaning letter R"
+          className="key"
+          onClick={[Function]}
+        >
+          ⡄
+        </button>
+        <button
+          aria-label="Runic key :, meaning letter  "
+          className="key"
+          onClick={[Function]}
+        >
+          :
+        </button>
+      </div>
+    </section>
+  </main>,
+  <footer
+    className="section"
+  >
+    <div
+      className="container text-center"
+    >
+      <small
+        className="copyright"
+      >
+        Copyright © 
+        2021
+        <a
+          href="https://github.com/stscoundrel"
+          rel="noopener noreferrer"
+          target="_blank"
+        >
+          Sampo Silvennoinen / StScoundrel
+        </a>
+      </small>
+    </div>
+  </footer>,
+]
+`;
