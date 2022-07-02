@@ -31,6 +31,15 @@ Array [
       <p>
         Younger Futhark
       </p>
+      <small>
+        Long branch
+      </small>
+      <p
+        className="runic"
+      />
+      <small>
+        Short twig
+      </small>
       <p
         className="runic"
       />

@@ -23,7 +23,11 @@ export default function Runes() {
       <textarea id="transcribe" value={content} onChange={(e) => setContent(e.target.value)} />
 
       <p>Younger Futhark</p>
-      <p className={styles.runic}>{youngerFuthark.lettersToRunes(content)}</p>
+      <small>Long branch</small>
+      <p className={styles.runic}>{youngerFuthark.lettersToLongBranchRunes(content)}</p>
+
+      <small>Short twig</small>
+      <p className={styles.runic}>{youngerFuthark.lettersToShortTwigRunes(content)}</p>
 
       <p>Elder Futhark</p>
       <p className={styles.runic}>{elderFuthark.lettersToRunes(content)}</p>
