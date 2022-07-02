@@ -1,4 +1,5 @@
 const nextJest = require('next/jest')
+
 const createJestConfig = nextJest({ __dirname })
 
 const customJestConfig = {
@@ -8,9 +9,9 @@ const customJestConfig = {
     '!**/*.d.ts',
     '!**/node_modules/**',
     '!.next/**',
-    '!**/*.js.snap',
-    '!**/*_app.js',
-    '!**/*_document.js',
+    '!**/*.tsx.snap',
+    '!**/*_app.tsx',
+    '!**/*_document.tsx',
   ],
   testPathIgnorePatterns: ['/node_modules/', '/.next/'],
   transformIgnorePatterns: [
@@ -22,9 +23,10 @@ const customJestConfig = {
   },
   moduleDirectories: ['src', 'node_modules'],
   setupFiles: [
-    '<rootDir>/setupTests.js',
+    '<rootDir>/setupTests.ts',
   ],
 }
 
-module.exports = createJestConfig(customJestConfig)
-  
+const config = createJestConfig(customJestConfig)
+
+export default config

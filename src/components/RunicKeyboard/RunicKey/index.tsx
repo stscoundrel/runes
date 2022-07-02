@@ -1,6 +1,16 @@
 import styles from './RunicKey.module.scss'
 
-export default function RunicKey({ rune, letter, callback }) {
+interface RunicKeyCallback {
+  (param: unknown): void
+}
+
+interface RunicKeyProps {
+  rune: string
+  letter: string
+  callback: RunicKeyCallback
+}
+
+export default function RunicKey({ rune, letter, callback }: RunicKeyProps) {
   return (
     <button
       className={styles.key}

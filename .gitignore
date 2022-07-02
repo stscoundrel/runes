@@ -42,3 +42,4 @@ tests/integration/logs
 public/workbox-*.js
 /public/robots.txt
 /public/sitemap.xml
+/public/sitemap-0.xml
