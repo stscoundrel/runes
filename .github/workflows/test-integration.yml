@@ -1,4 +1,4 @@
-name: JavaScript - Integration Test
+name: TypeScript - Integration Test
 
 on: [pull_request]
 
@@ -8,7 +8,7 @@ jobs:
     strategy:
       matrix:
         os: [ubuntu-latest, windows-latest, macos-latest]
-        node-version: [14.x, 16.x]
+        node-version: [18.x]
       fail-fast: false
     steps:
       - name: Checkout
