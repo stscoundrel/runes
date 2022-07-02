@@ -5950,10 +5950,10 @@ tr46@^3.0.0:
   dependencies:
     punycode "^2.1.1"
 
-ts-node@^10.8.1:
-  version "10.8.1"
-  resolved "https://registry.yarnpkg.com/ts-node/-/ts-node-10.8.1.tgz#ea2bd3459011b52699d7e88daa55a45a1af4f066"
-  integrity sha512-Wwsnao4DQoJsN034wePSg5nZiw4YKXf56mPIAeD6wVmiv+RytNSWqc2f3fKvcUoV+Yn2+yocD71VOfQHbmVX4g==
+ts-node@^10.8.2:
+  version "10.8.2"
+  resolved "https://registry.yarnpkg.com/ts-node/-/ts-node-10.8.2.tgz#3185b75228cef116bf82ffe8762594f54b2a23f2"
+  integrity sha512-LYdGnoGddf1D6v8REPtIH+5iq/gTDuZqv2/UJUU7tKjuEU8xVZorBM+buCGNjj+pGEud+sOoM4CX3/YzINpENA==
   dependencies:
     "@cspotcode/source-map-support" "^0.8.0"
     "@tsconfig/node10" "^1.0.7"
@@ -6528,7 +6528,7 @@ yn@3.1.1:
   resolved "https://registry.yarnpkg.com/yn/-/yn-3.1.1.tgz#1e87401a09d767c1d5eab26a6e4c185182d2eb50"
   integrity sha512-Ux4ygGWsu2c7isFWe8Yu1YluJmqVhxqK2cLXNQA5AcC3QfbGNpM7fu0Y8b/z16pXLnFxZYvWhd3fhBY9DLmC6Q==
 
-younger-futhark@^1.1.2:
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/younger-futhark/-/younger-futhark-1.2.0.tgz#3247ec7209043d4cd476cde54cea15047e6d0007"
-  integrity sha512-vw3Z9s9m1Hiv1GerPGdaLCC0AAKxSOpumxpzRrdc59AOLN8O/djeBj0zxNLeN8nqAtTsrMWbr5CWpm8249kvSw==
+younger-futhark@^1.2.1:
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/younger-futhark/-/younger-futhark-1.2.1.tgz#36430135ddf7388cf12bfac640a622a2826b005a"
+  integrity sha512-v2sdF3Ud+RemKM76cBDOkpciYbDKTKLkhP1KhQiuxqB9+D/jp1Di8o8XPhIOoXm5rkq+rxRRLjG8sfqivuA/nQ==
