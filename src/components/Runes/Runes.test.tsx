@@ -49,6 +49,7 @@ describe('Runes component', () => {
     expect(JSON.stringify(tree)).toContain('ᛋᛟᛗᛖ:ᛏᛖᛋᛏ') // Elder futhark
     expect(JSON.stringify(tree)).toContain('ᛋᚩᛗᛖ:ᛏᛖᛉᛏ') // Futhorc
     expect(JSON.stringify(tree)).toContain('ᛋᚮᛘᚽ:ᛏᚽᛋᛏ') // Futhork
+    expect(JSON.stringify(tree)).toContain('╵ˎ⠃ᛁ:⸍ᛁ╵⸍') // Staveless futhark
 
     expect(tree).toMatchSnapshot()
   })

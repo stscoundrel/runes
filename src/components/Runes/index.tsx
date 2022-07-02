@@ -5,6 +5,7 @@ import youngerFuthark from 'younger-futhark'
 import elderFuthark from 'elder-futhark'
 import futhorc from 'futhorc'
 import futhork from 'futhork'
+import stavelessFuthark from 'staveless-futhark'
 
 import styles from './Runes.module.scss'
 
@@ -32,6 +33,9 @@ export default function Runes() {
 
       <p>Futhork</p>
       <p className={styles.runic}>{futhork.lettersToRunes(content)}</p>
+
+      <p>Staveless Futhark</p>
+      <p className={styles.runic}>{stavelessFuthark.lettersToRunes(content)}</p>
 
     </section>
   )
