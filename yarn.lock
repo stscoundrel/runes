@@ -3408,10 +3408,10 @@ functions-have-names@^1.2.2:
   resolved "https://registry.yarnpkg.com/functions-have-names/-/functions-have-names-1.2.3.tgz#0404fe4ee2ba2f607f0e0ec3c80bae994133b834"
   integrity sha512-xckBUXyTIqT97tq2x2AMb+g163b5JFysYk0x4qxNFwbfQkmNZoiRHb6sPzI9/QV33WeuvVYBUIiD4NzNIyqaRQ==
 
-futhorc@^1.0.3:
-  version "1.0.5"
-  resolved "https://registry.yarnpkg.com/futhorc/-/futhorc-1.0.5.tgz#0b53187f1d3c34b19fe4b799c44a014e18cffd4a"
-  integrity sha512-mOFQPwuPz0Z+RuG4YEyM2iMQPUxzPKlmHNvWzCH9nCLKy2SQx/4C8yVIcE6SqlG3HQ6qC4+ZhasCkiX96mG57A==
+futhorc@^1.0.6:
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/futhorc/-/futhorc-1.0.6.tgz#434666ad5af40b85ad4f5428867d55320b57c07f"
+  integrity sha512-9ylIbsQpEFZji7rrQV6EGoXmL2S/WW2nEKzavAYc7PW8WgBGzhIOS3CWSbQzwACf0QvMe0zQwZEp3zepVa/ykA==
 
 futhork@^1.1.4:
   version "1.1.6"
