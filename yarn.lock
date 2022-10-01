@@ -2797,10 +2797,10 @@ ejs@^3.1.6:
   dependencies:
     jake "^10.8.5"
 
-elder-futhark@^1.0.7:
-  version "1.0.7"
-  resolved "https://registry.yarnpkg.com/elder-futhark/-/elder-futhark-1.0.7.tgz#8ce48233939fd5ca2e87fb6989f8a0a688a4c062"
-  integrity sha512-IgLXNiiBT09rihL1nA9rFHwkGgzJ6ud120qg19r9FG0Nu76c1oqKStncY8I6Cr7joEPdXgOwmhX/1Wp5gASuig==
+elder-futhark@^1.0.8:
+  version "1.0.8"
+  resolved "https://registry.yarnpkg.com/elder-futhark/-/elder-futhark-1.0.8.tgz#5b5e7abc6e633d5332a2cb5af274667194eabaa0"
+  integrity sha512-ysEO8fY0e/lTIQx6VCP6kWbaobmOR4Gcm7afYilU4/BbMjFDISMy1PaH7EU/ZbKNOnXsp4yL6ayrQeP2oYHUaw==
 
 electron-to-chromium@^1.4.172:
   version "1.4.177"
