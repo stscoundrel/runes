@@ -35,7 +35,7 @@
     "reset-css": "^5.0.1",
     "sass": "^1.54.1",
     "staveless-futhark": "^0.5.3",
-    "younger-futhark": "^1.2.2"
+    "younger-futhark": "^1.2.3"
   },
   "devDependencies": {
     "@types/jest": "^28.1.6",
