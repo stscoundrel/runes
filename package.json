@@ -25,7 +25,7 @@
   },
   "dependencies": {
     "elder-futhark": "^1.0.9",
-    "futhorc": "^1.0.6",
+    "futhorc": "^1.0.8",
     "futhork": "^1.1.7",
     "next": "^13.0.1",
     "next-pwa": "^5.5.5",
