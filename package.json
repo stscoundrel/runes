@@ -34,7 +34,7 @@
     "react-dom": "^18.0.0",
     "reset-css": "^5.0.1",
     "sass": "^1.55.0",
-    "staveless-futhark": "^0.5.3",
+    "staveless-futhark": "^0.5.4",
     "younger-futhark": "^1.2.4"
   },
   "devDependencies": {
