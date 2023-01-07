@@ -5962,10 +5962,10 @@ stack-utils@^2.0.3:
   dependencies:
     escape-string-regexp "^2.0.0"
 
-staveless-futhark@^0.5.4:
-  version "0.5.4"
-  resolved "https://registry.yarnpkg.com/staveless-futhark/-/staveless-futhark-0.5.4.tgz#67d9057ba257e81cba89898d6fd6c6c675f6f74d"
-  integrity sha512-GVEpmC4aYMl1wwYKb6kW/dUCSAZ1VO+f7WTG1rN/eReZU+CQNk+O8zr23Lwdabll8OLtO94jtjcNAzqyRIBKNQ==
+staveless-futhark@^0.6.0:
+  version "0.6.0"
+  resolved "https://registry.yarnpkg.com/staveless-futhark/-/staveless-futhark-0.6.0.tgz#8f15bb600e53f42d94fc08946055c2f8a55b8251"
+  integrity sha512-CjkGJK9FtISMjs9LXRaDCWPFBP5595alDqdwa7g7F/hPXZL+SNvCT0U3NJCqLIu3xYZsJOyr3CT749lL4aae+A==
 
 string-length@^4.0.1:
   version "4.0.2"
