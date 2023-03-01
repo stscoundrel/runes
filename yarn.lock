@@ -5035,10 +5035,10 @@ next-pwa@^5.5.5:
     workbox-webpack-plugin "^6.5.4"
     workbox-window "^6.5.4"
 
-next-sitemap@^3.1.43:
-  version "3.1.43"
-  resolved "https://registry.yarnpkg.com/next-sitemap/-/next-sitemap-3.1.43.tgz#f29ce7de7a7ea5cce95b36512cf06b8d30606abf"
-  integrity sha512-TshDAP69OjHwvszedQ/jBvOjzqy7Gm9NU3ZIP30X3e1qXsNVOVF5uzi9kQOI6v0uBG08QUOk9wKNSIk3zI/wjQ==
+next-sitemap@^3.1.55:
+  version "3.1.55"
+  resolved "https://registry.yarnpkg.com/next-sitemap/-/next-sitemap-3.1.55.tgz#9ba3ce6a22d8da641c241ddd644e1e3aef9a13c5"
+  integrity sha512-ZjkRfkqoSLbU+e8W9TWWe0zfOGNA47lpvm35kNcUCmj73gpLX2PIn51gwHT/B6bgGVAFYY0OXixJDrxIIwcEHw==
   dependencies:
     "@corex/deepmerge" "^4.0.29"
     minimist "^1.2.7"
